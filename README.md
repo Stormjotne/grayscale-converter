@@ -1,5 +1,5 @@
 # grayscale-converter
-Feed folder of RGB images to "blind copy" them all as grayscale to destination folder.\n
+Feed folder of RGB images to "blind copy" them all as grayscale to destination folder.
 Grayscale version of the EUVP dataset:
 https://drive.google.com/drive/folders/1bpeXe0UOxSDBInIYrVsmwZywoMHCRpby?usp=sharing
 
