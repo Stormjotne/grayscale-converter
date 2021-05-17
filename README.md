@@ -1,5 +1,6 @@
 # grayscale-converter
 Feed folder of RGB images to "blind copy" them all as grayscale to destination folder.
+https://drive.google.com/drive/folders/1bpeXe0UOxSDBInIYrVsmwZywoMHCRpby?usp=sharing
 
 
 ![alt text](https://github.com/Stormjotne/grayscale-converter/blob/main/examples/A/1.jpg "Img1")
